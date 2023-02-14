@@ -11,3 +11,7 @@
 - cargo run
 - cargo build
 - cargo build --release
+
+rs sandbox
+
+- pub: public function
