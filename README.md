@@ -15,3 +15,12 @@
 rs sandbox
 
 - pub: public function
+
+Formatting
+
+- basic formatting
+- positional arg
+- named arg
+- placeholder traits
+- placeholder traits for debug
+- basic math
