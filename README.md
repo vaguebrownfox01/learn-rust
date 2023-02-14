@@ -24,3 +24,19 @@ Formatting
 - placeholder traits
 - placeholder traits for debug
 - basic math
+
+Variables
+
+- let
+- let mut
+- const
+- let (,) = (,)
+
+Types
+
+- int
+- float
+- bool
+- char
+- tuple, array
+- std::i32::MAX
