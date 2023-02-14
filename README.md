@@ -4,3 +4,10 @@
 - WASM compatible
 - Better memory management (No garbage collection)
 - Package manager: Cargo
+
+- cargo
+- cargo new myproject
+- cargo inits
+- cargo run
+- cargo build
+- cargo build --release
