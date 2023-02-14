@@ -1,12 +1,12 @@
 // mod print;
-// mod string;
+mod string;
 // mod vars;
-mod types;
+// mod types;
 
 fn main() {
     println!("Hello, world!");
     // print::run();
-    // string::format();
+    string::format();
     // vars::run();
-    types::run();
+    // types::run();
 }

@@ -40,3 +40,16 @@ Types
 - char
 - tuple, array
 - std::i32::MAX
+
+String
+
+- &str
+- String::from("")
+- .push()
+- .push_str()
+- assert_eq!
+- .len()
+- .capacity()
+- .contains()
+- .split_whitespace()
+- String::with_capacity()
