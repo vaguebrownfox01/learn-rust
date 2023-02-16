@@ -67,4 +67,14 @@ Array
 -   &arrslice[1..4];
 -   use std::mem
 -   mem::size_of_val(&arr)
--
+
+Vector
+
+-   resizeable array
+-   vec: Vec<type> = vec![val, val];
+-   .push(val)
+-   .pop()
+-   slice same as arr
+-   for x in vec.iter() {}
+-   for x in vec.mut_iter {}
+    -   *x = *x \* 2;

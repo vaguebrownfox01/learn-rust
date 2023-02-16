@@ -3,7 +3,8 @@
 // mod tuple;
 // mod vars;
 // mod types;
-mod arrays;
+// mod arrays;
+mod vector;
 
 fn main() {
     println!("Hello, world!");
@@ -13,5 +14,6 @@ fn main() {
     // types::run();
     // tuple::run();
 
-    arrays::run();
+    // arrays::run();
+    vector::run();
 }
