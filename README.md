@@ -58,3 +58,13 @@ Tuple
 
 -   tup:(type, type) = (val, val);
 -   tup.0, tup.1
+
+Array
+
+-   No resize
+-   Be mutable
+-   arr: [type, size]
+-   &arrslice[1..4];
+-   use std::mem
+-   mem::size_of_val(&arr)
+-
